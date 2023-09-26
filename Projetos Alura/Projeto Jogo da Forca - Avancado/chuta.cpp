@@ -2,7 +2,6 @@
 #include <map>
 #include <vector>
 
-#include "chuta.hpp"
 #include "letra_existe.hpp"
 
 extern std :: map<char, bool> chutou;

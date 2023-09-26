@@ -1,8 +1,6 @@
 #include <string>
 #include <vector>
 
-#include "letra_existe.hpp"
-
 extern std :: string palavra_secreta;
 extern std :: vector<char>chutes_errados;
 

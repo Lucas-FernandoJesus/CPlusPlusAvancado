@@ -1,8 +1,6 @@
 #include <iostream>
 #include <vector>
 
-#include "erros.hpp"
-
 extern std :: vector<char>chutes_errados;
 
 void erros (){

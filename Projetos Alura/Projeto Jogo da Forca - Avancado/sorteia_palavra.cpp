@@ -4,7 +4,6 @@
 #include <vector>
 #include <string>
 
-#include "sorteia_palavra.hpp"
 #include "le_arquivo.hpp"
 
 extern std :: string palavra_secreta;

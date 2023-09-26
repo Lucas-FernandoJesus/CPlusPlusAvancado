@@ -2,7 +2,6 @@
 #include <vector>
 #include <string>
 
-#include "adiciona_palavra.hpp"
 #include "le_arquivo.hpp"
 #include "salva_arquivo.hpp"
 
