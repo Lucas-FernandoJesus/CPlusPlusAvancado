@@ -6,26 +6,23 @@
 #include <ctime>
 #include <cstdlib>
 
-/*ARQUIVOS INCLUSOS*/
-
-#include "adiciona_palavra.hpp"
-#include "chuta.hpp"
-#include "erros.hpp"
-#include "imprime_palavra.hpp"
-#include "le_arquivo.hpp"
-#include "letra_existe.hpp"
-#include "menu.hpp"
-#include "nao_acertou.hpp"
-#include "nao_enforcou.hpp"
-#include "salva_arquivo.hpp"
-#include "sorteia_palavra.hpp"
+#include "./adiciona_palavra.hpp"
+#include "./chuta.hpp"
+#include "./erros.hpp"
+#include "./imprime_palavra.hpp"
+#include "./le_arquivo.hpp"
+#include "./letra_existe.hpp"
+#include "./menu.hpp"
+#include "./nao_acertou.hpp"
+#include "./nao_enforcou.hpp"
+#include "./salva_arquivo.hpp"
+#include "./sorteia_palavra.hpp"
 
 using namespace std;
 
 string palavra_secreta;
 map<char, bool> chutou;
 vector<char>chutes_errados;
-
 
 int main (){
 

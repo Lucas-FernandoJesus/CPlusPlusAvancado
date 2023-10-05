@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/lucas/OneDrive/Área de Trabalho/CPlusPlusAvancado/Projetos Alura/Projeto Jogo da Forca - Avancado",
-      "program": "c:/Users/lucas/OneDrive/Área de Trabalho/CPlusPlusAvancado/Projetos Alura/Projeto Jogo da Forca - Avancado/build/Debug/outDebug",
+      "cwd": "c:/Users/lucas/OneDrive/Área de Trabalho/CPlusPlus/Projetos Alura/Projeto Jogo da Forca",
+      "program": "c:/Users/lucas/OneDrive/Área de Trabalho/CPlusPlus/Projetos Alura/Projeto Jogo da Forca/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

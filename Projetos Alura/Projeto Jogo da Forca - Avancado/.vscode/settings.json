@@ -58,7 +58,6 @@
   "files.associations": {
     "*.embeddedhtml": "html",
     "string": "cpp",
-    "ostream": "cpp",
     "array": "cpp",
     "atomic": "cpp",
     "*.tcc": "cpp",
@@ -96,6 +95,7 @@
     "istream": "cpp",
     "limits": "cpp",
     "new": "cpp",
+    "ostream": "cpp",
     "sstream": "cpp",
     "stdexcept": "cpp",
     "streambuf": "cpp",

@@ -1,11 +1,10 @@
 #include <iostream>
 #include <fstream>
-#include <vector>
-#include <string>
+#include "le_arquivo.hpp"
 
 std :: vector<std :: string> le_arquivo(){
     std :: ifstream arquivo;
-    arquivo.open("../palavras.txt");
+    arquivo.open("palavras.txt");
 
     if(arquivo.is_open()){
         int quantidade_palavras;
